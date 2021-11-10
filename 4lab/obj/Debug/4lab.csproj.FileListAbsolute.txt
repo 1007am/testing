@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\stud\p labs\4\4lab\4lab\bin\Debug\4lab.exe.config
+C:\Users\User\Desktop\stud\p labs\4\4lab\4lab\bin\Debug\4lab.exe
+C:\Users\User\Desktop\stud\p labs\4\4lab\4lab\bin\Debug\4lab.pdb
+C:\Users\User\Desktop\stud\p labs\4\4lab\4lab\obj\Debug\4lab.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\stud\p labs\4\4lab\4lab\obj\Debug\4lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stud\p labs\4\4lab\4lab\obj\Debug\4lab.exe
+C:\Users\User\Desktop\stud\p labs\4\4lab\4lab\obj\Debug\4lab.pdb
